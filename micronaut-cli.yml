@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, data, data-r2dbc, gradle, http-client-test, jackson-databind, java, java-application, junit, logback, micronaut-build, netty-server, properties, r2dbc, readme, shade, sqlserver, test-resources]
